@@ -57,8 +57,6 @@ src/
 |-- test/
     |-- java/com/lms/        # Test cases
 
-![image](https://github.com/user-attachments/assets/23291c0e-f2ac-4894-994d-85fa42e40f69)
 
 
-![image](https://github.com/user-attachments/assets/1266b4d7-d2ea-4a27-af9b-8d7d18cacba7)
-
+![Screenshot_1-2-2025_234226_](https://github.com/user-attachments/assets/399dfbcf-39b0-48c9-9d7d-4033cc096f67)
