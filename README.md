@@ -56,7 +56,3 @@ src/
 |       |-- application.yml  # Application configuration
 |-- test/
     |-- java/com/lms/        # Test cases
-
-
-
-[Screenshot_1-2-2025_234226_](https://github.com/user-attachments/assets/399dfbcf-39b0-48c9-9d7d-4033cc096f67)
