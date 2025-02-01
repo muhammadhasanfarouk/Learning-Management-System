@@ -34,7 +34,7 @@ The **Learning Management System (LMS)** backend is built using **Java Spring Bo
 | **Component**         | **Technology**                   |
 | --------------------- | -------------------------------- |
 | **Backend Framework** | Java Spring Boot (version 3.4.1) |
-| **Database**          | MongoDB                       |
+| **Database**          | PostgreSQL                       |
 | **Authentication**    | JWT                              |
 | **Testing Tools**     | Postman                          |
 
